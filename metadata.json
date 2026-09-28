@@ -1,0 +1,6 @@
+{
+  "name": "Dira Flowers",
+  "description": "Artisanal floral boutique offering natural fresh flowers, festive bouquets, wedding dhandalu garlands, and same-day doorstep delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
